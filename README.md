@@ -23,6 +23,12 @@ void main(){
 
 [daum][daum_link]
 
-[naver]: https://www.daum.net
+[daum]:https://www.daum.net
 
 ![logo](https://github.com/cchamchi/DKSH001/blob/main/image/dksh001.png)
+
+|자기소개|이름|학과|
+|-------|----|---|
+|1|박현우|게임컨텐츠|
+|2|박봄준|사물인터넷|
+|3|류환준|사물인터넷|
